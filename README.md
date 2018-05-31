@@ -6,6 +6,7 @@
 - If the game is a tie please display a tie.
 - Create a new game button.
 - Style in a way that you see fit.
+- Please provide a UI to run the game.
 
 ## Bonus:
 - Create a scoring system (i.e. Player 1 5 Games won && Player 2 4 Games Won).
