@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Coding-Challenge
 
 ## Your Challenge:
-- Create Tic Tac Toe (9x9 board) in a language of your choice.
+- Create Tic Tac Toe (3x3 board) in a language of your choice.
 - If a winner is detected please display a winner.
 - If the game is a tie please display a tie.
 - Create a new game button.
